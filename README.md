@@ -1,1 +1,0 @@
-# Jam-Retail-Inventory-Receiver
